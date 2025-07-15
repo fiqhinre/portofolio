@@ -411,18 +411,18 @@
 .experience h2 {
   margin-bottom: 0.2rem;
   font-size: 1.2rem;
-  color: #333;
+  color: #ffffff;
 }
 
 .experience h3 {
   font-weight: normal;
   font-size: 0.95rem;
-  color: #666;
+  color: #ffffff;
   margin-bottom: 0.5rem;
 }
 
 .experience ul {
   padding-left: 1.2rem;
   list-style-type: disc;
-  color: #444;
+  color: #fffefe;
 }
